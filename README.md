@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://codedamn.com/user/Coderpatel)**
+- 👨‍💻 All of my projects are available at https://mithleshpatel.com/
 
 - 📫 How to reach me ****
 
