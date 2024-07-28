@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mithlesh, a full-time full-stack freelance developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Mern Stack Blogging Website](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Laravel React SpringBoot Projects](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Data Structure and Algorithm  
+- 🌱 I’m currently learning Java and Springboot  
   
 
 - ❓ Ask me about anything related to the MERN stack and Web-related technologies  
@@ -116,7 +116,4 @@
                     align="center"
                 />
             </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
