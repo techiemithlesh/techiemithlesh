@@ -1,52 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
-<h3 align="center">PHP Developer | Backend Enthusiast | On a mission to join a top product-based company</h3>
+# Hi, I'm Mithlesh Patel 👋
+
+**Backend Developer** · PHP · Laravel · CodeIgniter 3 · Node.js · WebSocket · AWS
+
+📍 Ranchi, Jharkhand &nbsp;|&nbsp; 🌐 [mithleshpatel.com](https://mithleshpatel.com)
 
 ---
 
-🚀 **Current Mission:**
-Transitioning from a startup PHP developer to a skilled backend engineer, ready to contribute to high-scale, real-world systems at a product-based company like Razorpay, Paytm, or Zoho.
+## 🛠 Tech Stack
 
-🧩 **What I’m Doing Now:**
-- 🌱 Learning and building projects in **Java (Spring Boot)** to strengthen backend concepts.
-- 🛠️ Working with **REST APIs, PostgreSQL, and system design basics**.
-- ✍️ Sharing my daily progress on [LinkedIn](https://www.linkedin.com/in/mithlesh-12/) as a commitment to consistency and transparency.
+**Backend**
+`PHP` `Laravel` `CodeIgniter 3` `Node.js` `Express.js` `WebSocket` `REST APIs`
 
----
+**Databases**
+`MySQL` `PostgreSQL` `MongoDB` `Redis`
 
-### 🧰 Tech Stack
-- **Languages**: PHP, Java, JavaScript, SQL
-- **Frameworks**: Laravel, CodeIgniter, Spring Boot
-- **Databases**: PostgreSQL, MySQL
-- **DevOps Tools**: Git, GitHub Actions, Docker (learning)
-- **Others**: REST API, Clean Architecture, AWS Basics
+**Cloud & DevOps**
+`AWS EC2` `AWS RDS` `Docker` `GitHub Actions` `CI/CD` `Nginx`
+
+**Frontend (Working Knowledge)**
+`React JS` `JavaScript` `Tailwind CSS` `Bootstrap`
 
 ---
 
-### 🔥 Featured Projects
+## 🏛 Notable Work
 
-- 📘 [Book Management API](https://github.com/techiemithlesh/bookmangment)  
-  A Spring Boot CRUD REST API built as part of my structured learning journey.
-
-- 🏫 [Ramom School Management System Enhancements](https://github.com/techiemithlesh)  
-  Contributions and feature extensions in a Laravel-based school ERP system.
-
----
-
-### 📅 Daily Learning Log
-
-Check out my pinned repositories and LinkedIn to see daily commits and write-ups on:
-- Backend API design
-- Clean Code
-- Test-Driven Development
-- Interview prep
+| Project | Stack | Description |
+|---|---|---|
+| **School ERP Platform** | CI3 · Laravel · Node.js · WebSocket | Real-time exam module + admissions, fees, attendance |
+| **SUDA Municipal Platform** | Laravel · PostgreSQL · AWS | Jharkhand Govt. citizen services portal |
+| **RMC Portal** | PHP · Laravel · MySQL | Ranchi Municipal Corporation services |
+| **E-Commerce Platform** | PHP · MySQL | Product catalog, cart, payment gateway |
 
 ---
 
-### 🤝 Let’s Collaborate or Connect
+## 📊 GitHub Stats
 
-If you're a developer on the same path, or a recruiter hiring for backend roles:
-- 💬 LinkedIn: [Mithlesh Kumar](https://www.linkedin.com/in/mithlesh-12/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techiemithlesh&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-_“Learning out loud every day — because consistency beats talent when talent doesn't show up.”_
+*Open to backend roles — WFH / Hybrid · 4+ years experience*
