@@ -26,8 +26,9 @@
 
 | Project | Stack | Description |
 |---|---|---|
+| **[StatusPing](https://github.com/techiemithlesh/statusping)** | Laravel 11 · Redis · Horizon · Socket.io · Docker | Self-hosted uptime monitoring with incident tracking and Slack/email/webhook alerts |
 | **School ERP Platform** | CI3 · Laravel · Node.js · WebSocket | Real-time exam module + admissions, fees, attendance |
-| **SUDA Municipal Platform** | Laravel · PostgreSQL · AWS | Jharkhand Govt. citizen services portal |
+| **SUDA Municipal Platform** | CodeIgniter 4 · PostgreSQL · AWS | Jharkhand Govt. citizen services portal |
 | **RMC Portal** | PHP · Laravel · MySQL | Ranchi Municipal Corporation services |
 | **E-Commerce Platform** | PHP · MySQL | Product catalog, cart, payment gateway |
 
